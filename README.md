@@ -1,2 +1,3 @@
 # Final-Project
-Program purpose is in the 'C_FINAL_HOMEWORK.pdf' file.
+BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ
+C PROGRAMLAMA DERSİ 2019 – 2020 BAHAR DÖNEMİ FİNAL ÖDEVİ
